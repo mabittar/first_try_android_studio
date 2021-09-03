@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="btnStart">Inicio</string>
+    <string name="txtMensagem">Ola Mundo! Esse é meu primeiro APP.</string>
+    <string name="swtNightMode">Mostrar Novamente</string>
+</resources>
